@@ -11,7 +11,7 @@ import streamlit as st
 # =========================================================
 
 st.set_page_config(
-    page_title="Metro Payment Retry Analytics",
+    page_title="Retail Payment Retry Analytics",
     page_icon="💳",
     layout="wide"
 )
