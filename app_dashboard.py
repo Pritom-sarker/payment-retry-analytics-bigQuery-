@@ -107,7 +107,7 @@ gold1, gold2, gold3, gold4 = load_data()
 # SIDEBAR
 # =========================================================
 
-st.sidebar.title("💳 Metro Payment Analytics")
+st.sidebar.title("💳 Retail Payment Analytics")
 st.sidebar.markdown("Revenue leakage, retry recovery, payment behavior, and data quality.")
 
 page = st.sidebar.radio(
@@ -139,7 +139,7 @@ st.sidebar.markdown(
 # HEADER
 # =========================================================
 
-st.title("Metro Payment Retry & Revenue Leakage Analytics")
+st.title("Retail Payment Retry & Revenue Leakage Analytics")
 st.markdown(
     """
     This dashboard analyzes failed payments, retry behavior, payment method switching, 
